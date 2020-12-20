@@ -11,6 +11,10 @@ namespace ASPNet
 {
     public class Program
     {
+        /// <summary>
+        /// Comments
+        /// </summary>
+        /// <param name="args"></param>
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
